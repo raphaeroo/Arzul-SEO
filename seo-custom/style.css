@@ -1,0 +1,167 @@
+/* Custom CSS das Páginas de SEO do Site GrupoArzul
+Feito por: Raphael Freitas;
+Agência Sense - 2018
+Versão: 1.2;
+*/
+
+/* Header */
+#topo-branco {
+	background-color: white;
+	text-align: right;
+}
+#topo-branco p {
+	margin-top: 1em;
+	font-size: 13px;
+	font-weight: 600;
+}
+#fake-banner{
+	background-color: #256da7;
+	height: 7em;
+}
+.logo{
+	width: 40%
+	text-align: left;
+}
+.logo img{
+	margin: 1.5% auto;
+}
+.menu {
+	width: 60%
+	text-align: left;
+}
+.menu a {
+	color: white;
+	transition: 0.3s ease;
+}
+.menu a:hover {
+	text-decoration: none;
+	color: white;
+	border-top: 4px solid #ffffff;
+  	border-bottom: 4px solid #ffffff;
+  	padding: 6px 0; 
+}
+.espacinho-xs{
+	padding-bottom: 0.2em;
+	padding-top: 0.2em;
+}
+.espacinho {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+.espaco {
+	padding-top: 4em;
+	padding-bottom: 4em; 
+}
+.mega-espaco {
+	padding-top: 8em;
+	padding-bottom: 8em; 
+}
+#footer-l{
+	margin-top: 1.2em;
+}
+#footer-l h2{
+	color: white;
+	font-size: 20px;
+	font-weight: 550;
+}
+#footer-l p{
+	color: white;
+	font-size: 13px;
+}
+#footer-r {
+	margin-top: 1.2em;
+}
+.listinha {
+	list-style: none;
+}
+#links h2{
+	text-align: left;
+	color: dimgrey;
+}
+#rodape {
+	background-color: #256da7;
+	height: 13em;
+}
+#final-rodape {
+	background-color: #10548c;
+	height: 2.5em;
+}
+.final-baixo{
+	color: white;
+	text-align: center;
+}
+.final-baixo p{
+	padding-top: 0.8em;
+	font-size: 13px;
+}
+.final-baixo a{
+	transition: 0.4s;
+	text-decoration: none;
+	color: white;
+}
+.final-baixo a:hover{
+  background-color: #ffffff;
+  color: #10548c;
+  padding: 0.8em 10px;
+}
+/* CTA FOOTER */
+.banner_footer{
+	background-color: #256da7;
+	height: 8em;
+}
+.titulo-banner_footer{
+	font-size: 1.5rem;
+	color: white;
+	text-shadow: 1px 1px 1px #000;
+}
+.esquerdo_footer{
+	margin-top: 1em;
+}
+.esquerdo_footer p{
+color: white;
+}
+.bto-whatss{
+	height: 6.5em;
+	border-radius: 25px;
+	background-color: #128c7e;
+	border: 0;
+	box-shadow: 0px 0px 5px #000;
+	margin-top: 0.4em;
+	transition: 0.4s ease;
+}
+.bto-whatss:hover {
+	height: 6.5em;
+	border-radius: 20px;
+	background-color: #128c7e;
+	border: 1.5px;
+	border-color: #128c7e;
+	box-shadow: 0px 0px 15px #000;
+	margin-top: 0.4em;
+}
+.bto-email{
+	height: 6.5em;
+	border-radius: 25px;
+	background-color: #10548c;
+	border: 0;
+	box-shadow: 0px 0px 5px #000;
+	margin-top: 0.4em;
+	transition: 0.4s ease;
+}
+.bto-email:hover {
+	height: 6.5em;
+	border-radius: 20px;
+	background-color: #10548c;
+	border: 1.5px;
+	border-color: #128c7e;
+	box-shadow: 0px 0px 15px #000;
+	margin-top: 0.4em;
+}
+.text-whatss{
+	font-weight: 650;
+	font-size: 0.7em;
+	color: white;
+}
+.text-whatss i{
+	font-size: 4em !important;
+	font-weight: 200 !important;
+}
